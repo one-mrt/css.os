@@ -1,0 +1,13 @@
+/bitrix
+/upload
+_*
+/local/components
+/local/templates
+
+.access.php
+.htaccess
+.htsecure
+500.html
+favicon.ico
+robots.txt
+urlrewrite.php
